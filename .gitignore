@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom AchilleaMillefolium
+Data/stations.csv
+.DS_Store
