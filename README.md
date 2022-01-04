@@ -40,7 +40,9 @@ Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.9/site-package
 Installing collected packages: wcwidth, traitlets, ptyprocess, parso, tornado, pygments, prompt-toolkit, pickleshare, pexpect, nest-asyncio, matplotlib-inline, jupyter-core, jedi, entrypoints, decorator, backcall, appnope, jupyter-client, ipython, debugpy, ipykernel
 ```
 
-NOTE: Initially tried to run teh code with a plain Python file called `folium.py`. Does not run anyway because it needs a notebook, but the point is you should not give it the same name as `folium` package or it will interfere with the import... I remmeber having seen this before, probably a generic non-feature.
+![image](https://user-images.githubusercontent.com/2260360/148051119-ac862c5c-21be-457c-b4c9-7d9f9f4f187c.png)
+
+NOTE: Initially tried to run the code with a plain Python file called `folium.py`. Does not run anyway because it needs a notebook, but the point is you should not give it the same name as `folium` package or it will interfere with the import... I remmeber having seen this before, probably a generic non-feature.
 
 # Inspiration
 
