@@ -18,7 +18,7 @@ https://thedatafrog.com/en/articles/mongodb-python-pandas/
 
 ## Notes
 
-When using Microsfot VS Code, the first run might show a popup stating "Running cells with 'Python 3.9.7 64-bit' requires ipykernel.", see Images/RunningCellsWithPPython3.9.7-64-bitRequires-ipykernel.jpg
+When using Microsoft VS Code, the first run might show a popup stating "Running cells with 'Python 3.9.7 64-bit' requires ipykernel.", see Images/RunningCellsWithPPython3.9.7-64-bitRequires-ipykernel.jpg
 
 If so, click `[ Install ]`
 
