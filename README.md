@@ -1,35 +1,16 @@
-# AchilleaMillefolium
-Playground for folium and movingpandas
+# README
 
-# Setup
+Open Jupyter notebook `ezfolium_mdb.ipynb` for up to date information.
 
-`python3 -m pip install --upgrade pip`
+The Jupyter notebook `ezfolium_csv.ipynb` was a first try with `csv` as source data.
 
-`python3 -m pip install folium`
-
-Assumes
-
-* pandas, if not installed `python3 -m pip install pandas`
-
-# Data
-
-https://github.com/trainline-eu/stations/blob/master/stations.csv
-
-Created `stations_NL.csv` by selecting stations from NL with values for latitude and longitude fields. Notebook errors with `ValueError: Location values cannot contain NaNs.` when coordinates are missing.
-
-# Run
-
-Create Jupyter notebook `ezfolium.ipynb`
-
-Add code, changing some of the original stuff like default start location and data for custom stuff, then play it.
-
-Changed the coordinates to a different start location: OLV Kerk Amersfoort :-)
+## Notes
 
 First run might show a popup stating "Running cells with 'Python 3.9.7 64-bit' requires ipykernel.", see Images/RunningCellsWithPPython3.9.7-64-bitRequires-ipykernel.jpg
 
 Click `[ Install ]`
 
-It will run `/usr/local/bin/python3 -m pip install -U ipykernel` in the VS Code context
+It will run `/usr/local/bin/python3 -m pip install -U ipykernel` in the VS Code context, something like:
 
 `/usr/local/bin/python3 /Users/emil.zegers/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/local/bin/python3 -m pip install -U ipykernel /var/folders/4s/69z7hb_57zn27jq6pb0k8_780000gp/T/tmp-61747RA3u0OpndcOw.log`
 
@@ -54,3 +35,4 @@ https://anitagraser.com/
 
 https://en.wikipedia.org/wiki/Onze_Lieve_Vrouwetoren
 
+https://thedatafrog.com/en/articles/mongodb-python-pandas/
