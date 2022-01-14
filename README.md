@@ -1,6 +1,6 @@
 # README
 
-Open Jupyter notebook `ezfolium_mdb.ipynb` for up to date information. Creating a web gis app in just 10 lines of code (including the `import` statements). Ok, chained a few lines but there is still even some extra code in there e.g. for the (very nice!) multiple map base layers, check it out. And you do need to have a MongoDB instance with some geojson, that too.
+Open Jupyter notebook `ezfolium_mdb.ipynb` for up to date information. Creating a web map app in just 10 lines of code (including the `import` statements). Ok, chained a few lines but there is still even some extra code in there e.g. for the (very nice!) multiple map base layers, check it out. And you do need to have a MongoDB instance with some geojson, that too.
 
 (The Jupyter notebook `ezfolium_csv.ipynb` was a first try with `csv` as source data.)
 
